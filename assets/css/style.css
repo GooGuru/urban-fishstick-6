@@ -1,0 +1,24 @@
+.container {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.search-section {
+    margin-bottom: 20px;
+}
+
+.city-btn {
+    margin: 5px;
+}
+
+#currentWeather {
+    margin-top: 20px;
+    background-color: grey;
+}
+
+#forecast {
+    display: flex;
+    justify-content: space-around;
+    background-color: teal;
+}
